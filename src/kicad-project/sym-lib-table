@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "MAX6970AAE&plus_")(type "Legacy")(uri "${KIPRJMOD}/libs/MAX6970AAE&plus_.lib")(options "")(descr ""))
+  (lib (name "GP2S700HCP_")(type "Legacy")(uri "${KIPRJMOD}/libs/GP2S700HCP.lib")(options "")(descr "")(disabled))
+  (lib (name "GP2S700HCP")(type "KiCad")(uri "${KIPRJMOD}/libs/GP2S700HCP.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC2860-2PYC6-TR")(type "Legacy")(uri "${KIPRJMOD}/libs/MIC2860-2PYC6-TR.lib")(options "")(descr ""))
+)

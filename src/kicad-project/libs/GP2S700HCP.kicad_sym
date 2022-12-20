@@ -1,0 +1,228 @@
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "GP2S700HCP" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "Q" (id 0) (at 14.224 7.62 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "GP2S700HCP" (id 1) (at 14.224 5.08 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Footprint" "GP2S700_SHP" (id 2) (at 14.224 3.556 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "ki_locked" "" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "ki_fp_filters" "GP2S700_SHP GP2S700_SHP-M GP2S700_SHP-L" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "GP2S700HCP_1_1"
+      (polyline
+        (pts
+          (xy 7.62 -10.16)
+          (xy 17.78 -10.16)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 0)
+          (xy 10.16 0)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 2.54)
+          (xy 7.62 -10.16)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 -7.62)
+          (xy 7.62 -7.62)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 -5.08)
+          (xy 10.16 -7.62)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 -2.54)
+          (xy 10.16 -3.048)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 -2.54)
+          (xy 10.668 -2.54)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 0)
+          (xy 10.16 -2.54)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.668 -2.54)
+          (xy 10.16 -3.048)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 11.43 -3.81)
+          (xy 10.16 -5.08)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 11.43 -3.81)
+          (xy 10.16 -2.54)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 11.43 -2.54)
+          (xy 11.43 -5.08)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 14.224 -3.81)
+          (xy 16.256 -3.81)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 14.224 -2.032)
+          (xy 15.24 -3.81)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 14.224 -2.032)
+          (xy 16.256 -2.032)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 15.24 -7.62)
+          (xy 17.78 -7.62)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 15.24 0)
+          (xy 15.24 -7.62)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 16.256 -2.032)
+          (xy 15.24 -3.81)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 17.78 -10.16)
+          (xy 17.78 2.54)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 17.78 0)
+          (xy 15.24 0)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 17.78 2.54)
+          (xy 7.62 2.54)
+        )
+        (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 -3.048)
+          (xy 10.16 -2.54)
+          (xy 10.668 -2.54)
+          (xy 10.16 -3.048)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 14.224 -2.032)
+          (xy 15.24 -3.81)
+          (xy 16.256 -2.032)
+          (xy 14.224 -2.032)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (pin power_in line (at 0 0 0) (length 7.62)
+        (name "1" (effects (font (size 1.4986 1.4986))))
+        (number "1" (effects (font (size 1.4986 1.4986))))
+      )
+      (pin bidirectional line (at 0 -7.62 0) (length 7.62)
+        (name "2" (effects (font (size 1.4986 1.4986))))
+        (number "2" (effects (font (size 1.4986 1.4986))))
+      )
+      (pin output line (at 25.4 -7.62 180) (length 7.62)
+        (name "3" (effects (font (size 1.4986 1.4986))))
+        (number "3" (effects (font (size 1.4986 1.4986))))
+      )
+      (pin power_in line (at 25.4 0 180) (length 7.62)
+        (name "4" (effects (font (size 1.4986 1.4986))))
+        (number "4" (effects (font (size 1.4986 1.4986))))
+      )
+    )
+  )
+)
